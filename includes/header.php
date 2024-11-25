@@ -19,6 +19,11 @@
         <div class="title-right">
             <a href="/login.php">Login</a>
             <a href="/register.php">Cadastro</a>
+            <a href="/add_salary.php">Salário</a>
+            <a href="/expenses.php">Gastos</a>
+            <a href="/gastos.php">Atualização</a>
+            <a href="/add_expense.php">Adicionar Gastos</a>
+
         </div>
     </div>
 </body>
